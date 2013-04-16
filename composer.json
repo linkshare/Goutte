@@ -21,6 +21,9 @@
         "symfony/process": "~2.1"
     },
     "autoload": {
-        "psr-0": { "Goutte": "." }
-    }
+        "psr-0": { 
+            "Fabpot\\Goutte": ""
+        }
+    },
+    "target-dir": "Fabpot/Goutte"
 }
