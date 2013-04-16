@@ -256,12 +256,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/linkshare/zf2.git",
-                "reference": "vls-release-1.0.0"
+                "reference": "v0.0.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/linkshare/zf2/zipball/vls-release-1.0.0",
-                "reference": "vls-release-1.0.0",
+                "url": "https://api.github.com/repos/linkshare/zf2/zipball/v0.0.1",
+                "reference": "v0.0.1",
                 "shasum": ""
             },
             "require": {
@@ -287,7 +287,7 @@
                 "zf2"
             ],
             "support": {
-                "source": "https://github.com/linkshare/zf2/tree/vls-release-1.0.0"
+                "source": "https://github.com/linkshare/zf2/tree/v0.0.1"
             },
             "time": "2013-04-16 16:13:08"
         }
