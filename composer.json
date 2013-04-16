@@ -22,8 +22,7 @@
     },
     "autoload": {
         "psr-0": { 
-            "Fabpot\\Goutte": ""
+            "Goutte":"src/"
         }
-    },
-    "target-dir": "Fabpot/Goutte"
+    }
 }
