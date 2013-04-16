@@ -11,12 +11,6 @@
             "email": "fabien@symfony.com"
         }
     ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url":  "https://github.com/linkshare/zf2"
-        }
-    ],
     "require": {
         "php": ">=5.3.0",
         "ext-curl": "*",
@@ -24,8 +18,7 @@
         "symfony/css-selector": "~2.1",
         "symfony/dom-crawler": "~2.1",
         "symfony/finder": "~2.1",
-        "symfony/process": "~2.1",
-        "zendframework/zendframework": "*"
+        "symfony/process": "~2.1"
     },
     "autoload": {
         "psr-0": { 
