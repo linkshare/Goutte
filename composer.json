@@ -1,0 +1,26 @@
+{
+    "name": "fabpot/goutte",
+    "type": "application",
+    "description": "A simple PHP Web Scraper",
+    "keywords": ["scraper"],
+    "homepage": "https://github.com/linkshare/Goutte",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fabien Potencier",
+            "email": "fabien@symfony.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "ext-curl": "*",
+        "symfony/browser-kit": "~2.1",
+        "symfony/css-selector": "~2.1",
+        "symfony/dom-crawler": "~2.1",
+        "symfony/finder": "~2.1",
+        "symfony/process": "~2.1"
+    },
+    "autoload": {
+        "psr-0": { "Goutte": "." }
+    }
+}
